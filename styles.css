@@ -57,12 +57,12 @@ button {
 }
 
 .yes {
-    background-color: #ff4b2b;
+    background-color: #59d60c;
     color: white;
 }
 
 .yes:hover {
-    background-color: #ff6f61;
+    background-color: #3bc60c;
     transform: scale(1.1);
 }
 
